@@ -1,0 +1,184 @@
+nav 
+  {
+	overflow: hidden;
+	background-color: #FFFAE1;
+	
+	width: 100%;
+	opacity: 0.9;
+  }
+
+ 
+  header li 
+  {
+	float: right;
+	font-size: 1.2em;
+  }
+
+  header li a 
+  {
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding: 18px 16px;
+  }
+
+  #logo 
+  {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	float: left;
+  }
+
+
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    list-style-type: none;
+  }
+  
+  h2 {
+      text-transform: uppercase;
+      text-align: center;
+      padding-top: 30px;
+      font-size: 2em;
+    }
+    a 
+    {
+      text-decoration: none;
+      color: black;
+    }
+
+
+
+.fa 
+{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  #en_tete
+    {
+        display: flex;
+        width: 100%;
+	height: 300px;
+	
+	margin-bottom: 10px;
+	
+    }
+    .ban
+    { 
+        padding-left: 28%;   
+        width: 760px;
+        height: 200px;
+    }
+
+
+.Inscription
+{
+	text-align: center;
+	border: 5px solid rgb(210, 210, 231);
+	border-radius: 5%;
+	width: 50%;
+	height: 100%;
+	overflow: hidden;
+}
+.formulaire
+{
+    padding-top: 10%;
+	padding-left: 35%;
+}
+
+.Inscrire
+{
+	text-decoration: underline;
+	color: blue;
+}
+
+
+
+
+
+
+
+footer
+{
+    background-color: #524A3A;
+    color: #FFFAE1;
+    padding: 20px 0 10px 0;
+    text-align: center;
+}
+
+footer form
+{
+    margin: 0 auto ;
+    max-width: 900px;
+}
+
+footer input, footer textarea, footer button
+{
+    border: none;
+    width: 55%;
+    padding: 15px 10px;
+    margin: 1px 0;
+    font-size: 1.2em;
+    font-family: 'Advent Pro' , sans-serif;
+    border-radius: 8px;
+}
+
+footer textarea
+{
+    height: 120px;
+}
+
+.submit
+{
+    font-size: 1.5em;
+    background-color: #FFFAE1;
+}
+
+.submit:hover
+{
+    background-color: #e55039;
+    color: #FFFAE1;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+#deuxiemeTrait
+{
+    height: 1px;
+    width: 75%;
+    background-color: #FFFAE1;
+    margin: 60px auto;
+}
+
+#copyrightEtIcons {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 0 10%;
+  }
+  #copyright {
+    width: 50%;
+    text-align: left;
+    color: #FFFAE1;
+  }
+  #icons {
+    width: 50%;
+    text-align: right;
+  }
+  #icons a {
+    display: inline-block;
+    padding: 0 15px;
+    font-size: 1.3em;
+    color: #FFFAE1;
+  }
+  #icons a:hover {
+    transform: scale(1.5);
+    transition: 0.1s;
+  }
