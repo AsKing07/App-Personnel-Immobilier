@@ -34,10 +34,6 @@ if (isset($_POST['modifier'])) {
 
 
 
-
-
-
-
 ?>
 
 <!DOCTYPE html>
