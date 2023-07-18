@@ -83,6 +83,8 @@ git clone https://github.com/AsKing07/App-Personnel-immobilier.git
 
 5. Lancez votre serveur Web local et accédez au projet via votre navigateur Web en utilisant l'URL appropriée (par exemple, `http://localhost/Immo2/accueil.php`).
 
+   NB: Notez que la page principale est `accueil.php`
+
 ## Contributions
 
 Le développement de ce projet est toujours en cours et les contributions sont les bienvenues. Si vous souhaitez contribuer, vous pouvez effectuer une demande de fusion (pull request) en proposant vos modifications.
